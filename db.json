@@ -1,5 +1,4 @@
 {
-  "products": [
     {
       "id": 1,
       "company": "Apple",
@@ -24,5 +23,4 @@
       "price":75000,
       "Model":"iphone-x"
     }
-  ]
 }
