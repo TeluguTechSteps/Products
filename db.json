@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "company": "Apple"
+      "price":75000
+      "Model":"iphone-x"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "id": 2,
+      "company": "Apple"
+      "price":75000
+      "Model":"iphone-x"
+    }
+    {
+      "id": 3,
+      "company": "Apple"
+      "price":75000
+      "Model":"iphone-x"
+    }
+    {
+      "id": 4,
+      "company": "Apple"
+      "price":75000
+      "Model":"iphone-x"
+    }
+  ]
 }
