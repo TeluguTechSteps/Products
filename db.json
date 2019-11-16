@@ -1,25 +1,28 @@
+ [
     {
-      "id": 1,
+     "id": 1,
       "company": "Apple",
       "price":75000,
       "Model":"iphone-x"
-    }
-    {
+    },
+     {
       "id": 2,
       "company": "Apple",
       "price":75000,
       "Model":"iphone-x"
-    }
+    },
     {
       "id": 3,
       "company": "Apple",
       "price":75000,
       "Model":"iphone-x"
-    }
+    },
     {
       "id": 4,
       "company": "Apple",
       "price":75000,
       "Model":"iphone-x"
     }
+  ]
+    
 
