@@ -9,6 +9,8 @@
   ],
   "posts": {
       "id": 2,
-      "title": "hi"
+      "Company": "Apple",
+      "Price": 75000,
+      "Model": "iphone-x"
     }
 }
