@@ -2,9 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "Company": "Apple",
-      "Price": 75000,
-      "Model": "iphone-x"
-    },
-  ]
+      "company": "Apple",
+      "price" : 75000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
