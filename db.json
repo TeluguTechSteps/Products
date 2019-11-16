@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "Company": "Apple"
-      "Price": 75000
+      "Company": "Apple",
+      "Price": 75000,
       "Model": "iphone-x"
     },
   ],
