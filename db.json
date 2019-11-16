@@ -7,10 +7,11 @@
       "Model": "iphone-x"
     },
   ],
-  "posts": {
+  "posts": [{
       "id": 2,
       "Company": "Apple",
       "Price": 75000,
       "Model": "iphone-x"
     }
+    ]
 }
