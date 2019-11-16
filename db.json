@@ -1,24 +1,11 @@
- {
-  "info": [
+{
+  "posts": [
     {
       "id": 1,
-      "company": "Apple",
-      "price":75000,
-      "Model":"iphone-x"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
