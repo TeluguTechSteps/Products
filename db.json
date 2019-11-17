@@ -5,15 +5,13 @@
       "company": "Apple",
       "price" : 75000,
       "Model" : "iphone-x"
-    },
-    {
+    }
+  ],
+  "posts": [{
       "id": 2,
       "company": "Apple",
       "price" : 75000,
       "Model" : "iphone-x"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
   }
+  ]
 }
